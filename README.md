@@ -1,4 +1,4 @@
-# FTSD-SegNet: A Frequency-Token-Spatial Domain Fused Segmentation Network for Extracting Environmental Objects from Remote Sensing Images
+# FTSD-SegNet: A Frequency-Token-Spatial Domain Segmentation Network for Remote Sensing Images
 
 <p align="center">
     <img src="FTSD-SegNet_01.png">
